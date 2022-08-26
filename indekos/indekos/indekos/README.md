@@ -33,4 +33,3 @@ letakkan pada folder instalasi xampp (biasanya terletak di C:\xampp\htdocs\)
 Lalu buat database pada PHPMyadmin klik tombol export arahkan file .sql pada folder yang telah kita sediakan
 lalu buka browser (bisa menggunakan chrome,firefox,atau lainnya) dan ketikkan pada browser http://localhost/topsiskos/nama-folder-kamu
 
-cek artikel situs : https://suryaciptainformatika.com/artikel/script-php-topsis
